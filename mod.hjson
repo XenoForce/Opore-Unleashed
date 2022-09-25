@@ -1,0 +1,7 @@
+name: rt-opore
+displayName: Opore Mod (for v7) Unleashed
+author: XenoForce
+description: Opore Mod (for v7) Unleashed
+version: "1.0.1"
+minGameVersion: "136"
+dependencies: [ opore-nt ]
