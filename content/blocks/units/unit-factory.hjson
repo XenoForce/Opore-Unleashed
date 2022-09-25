@@ -1,0 +1,35 @@
+type: UnitFactory
+name: Unit Factory (Opore Mod)
+description: Unit Factory (Opore Mod)
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+
+plans: [
+	{ unit: opore-nt-opmechunit    , time: 90, requirements: [] }    // (type: flying)  (health:   500)
+	{ unit: opore-nt-ho-mechunit   , time: 90, requirements: [] }    // (type: flying)  (health:   700)
+	{ unit: opore-nt-vo-mechunit   , time: 90, requirements: [] }    // (type: flying)  (health:  1000)
+	
+	{ unit: opore-nt-opmechunitG   , time: 90, requirements: [] }    // (type: mech)  (health:   500)
+	{ unit: opore-nt-ho-mechunitG  , time: 90, requirements: [] }    // (type: mech)  (health:   700)
+	{ unit: opore-nt-vo-mechunitG  , time: 90, requirements: [] }    // (type: mech)  (health:  1000)
+	
+	{ unit: opore-nt-bomber-ship   , time: 90, requirements: [] }    // (type: flying)  (health:  5000)
+	{ unit: opore-nt-bomber2-ship  , time: 90, requirements: [] }    // (type: flying)  (health:  7000)
+	{ unit: opore-nt-bomber3-ship  , time: 90, requirements: [] }    // (type: flying)  (health:  6000)
+	
+	{ unit: opore-nt-awp-ship      , time: 90, requirements: [] }    // (type: flying)  (health:  3000)
+	
+	{ unit: opore-nt-nano-mech     , time: 90, requirements: [] }    // (type: flying)  (health:  1)
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: duo
+
+alwaysUnlocked: true
