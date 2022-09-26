@@ -6,7 +6,7 @@ health: 99000
 liquidCapacity: 50
 
 outputLiquid: {
-  liquid: opore-nt-liquid-holyore
+  liquid: opore-mod-liquid-holyore
   amount: 9
 }
 

@@ -6,7 +6,7 @@ health: 99000
 itemCapacity: 50
 
 outputItem: {
-  item: opore-nt-op-pykrete
+  item: opore-mod-op-pykrete
   amount: 9
 }
 

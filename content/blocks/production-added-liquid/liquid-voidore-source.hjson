@@ -6,7 +6,7 @@ health: 99000
 liquidCapacity: 50
 
 outputLiquid: {
-  liquid: opore-nt-liquid-voidore
+  liquid: opore-mod-liquid-voidore
   amount: 9
 }
 

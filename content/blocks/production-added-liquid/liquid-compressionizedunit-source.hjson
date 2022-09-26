@@ -6,7 +6,7 @@ health: 99000
 liquidCapacity: 50
 
 outputLiquid: {
-  liquid: opore-nt-liquid-compressionizedunit
+  liquid: opore-mod-liquid-compressionizedunit
   amount: 9
 }
 

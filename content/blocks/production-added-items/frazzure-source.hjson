@@ -6,7 +6,7 @@ health: 99000
 itemCapacity: 50
 
 outputItem: {
-  item: opore-nt-frazzure
+  item: opore-mod-frazzure
   amount: 9
 }
 

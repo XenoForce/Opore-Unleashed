@@ -6,7 +6,7 @@ health: 99000
 itemCapacity: 50
 
 outputItem: {
-  item: opore-nt-op-powder
+  item: opore-mod-op-powder
   amount: 9
 }
 
