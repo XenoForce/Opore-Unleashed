@@ -23,7 +23,7 @@ plans: [
 	
 	{ unit: opore-mod-awp-ship      , time: 90, requirements: [] }    // (type: flying)  (health:  3000)
 	
-	{ unit: opore-mod-nano-mech     , time: 90, requirements: [] }    // (type: flying)  (health:  1)
+	{ unit: opore-mod-nano-mech     , time: 90, requirements: [] }    // (type: flying)  (health:  250)
 ]
 
 requirements: []
