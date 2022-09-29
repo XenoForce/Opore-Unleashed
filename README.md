@@ -1,5 +1,7 @@
 # Opore Mod (v7) - Unleashed
 
+![xxx](https://github.com/XenoForce/Opore-Unleashed/blob/master/logo.png)
+
 <br>
 
 **Target audience:**
@@ -18,7 +20,7 @@ This mod is for people who don't want to spend hours and days gathering all sort
 
   * Provide liquid sources for new liquids defined in Opore-Mod.
 
-  * Unlocks all the Opore-Mod units. Both flying and ground units.
+  * Unlocks all the Opore-Mod units; both flying and ground units.
 
   * Provides a custom unit factory, to easily produce Opore-Mod units at no cost.
 
