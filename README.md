@@ -1,6 +1,6 @@
 # Opore Mod (v7) - Unleashed
 
-![xxx](https://github.com/XenoForce/Opore-Unleashed/blob/master/logo.png)
+![xxx](https://github.com/XenoForce/Opore-Unleashed/blob/main/icon.png)
 
 <br>
 
