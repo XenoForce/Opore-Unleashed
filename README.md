@@ -1,8 +1,6 @@
-# Opore-Unleashed
-Opore Mod (v7) Unleashed
+# Opore Mod (v7) - Unleashed
 
-
-
+<br>
 
 **Target audience:**
 
