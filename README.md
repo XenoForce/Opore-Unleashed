@@ -10,18 +10,18 @@ This mod is for people who don't want to spend hours and days gathering all sort
 
 **This companion mod does the following:**
 
-*) Unlocks all the turrets, and set price to zero.
+  * Unlocks all the turrets, and set price to zero.
 
-*) Unlocks all the wall blocks, and set price to zero.
+  * Unlocks all the wall blocks, and set price to zero.
 
-*) Provide item sources for new items defined in Opore-Mod.
+  * Provide item sources for new items defined in Opore-Mod.
 
-*) Provide liquid sources for new liquids defined in Opore-Mod.
+  * Provide liquid sources for new liquids defined in Opore-Mod.
 
-*) Unlocks all the Opore-Mod units. Both flying and ground units.
+  * Unlocks all the Opore-Mod units. Both flying and ground units.
 
-*) Provides a custom unit factory, to easily produce Opore-Mod units at no cost.
+  * Provides a custom unit factory, to easily produce Opore-Mod units at no cost.
 
-*) Increases build speed of worker drones: alpha, beta, gamma, evoke, incite, emanate
+  * Increases build speed of worker drones: alpha, beta, gamma, evoke, incite, emanate
 
 <br>
